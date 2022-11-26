@@ -73,10 +73,12 @@ Selanjutnya yaitu memastikan semua node telah terhubung.
 - Langkah8
 ![9](https://user-images.githubusercontent.com/90242686/204095025-edeffb6d-40f4-4188-afdb-01ed2f42c046.png)
 
-
-
-Selanjutnya menghitung berapa jumlah host pada setiap subnet dan netmask yang akan digunakan.
+- Selanjutnya menghitung berapa jumlah host pada setiap subnet dan netmask yang akan digunakan.
 ![image](https://user-images.githubusercontent.com/90242686/204094765-29dd89cf-4e0a-4484-9b1e-e52525427ea9.png)
+
+-  Selanjutnya kami membuat pohon perhitungan CIDR
+![image](https://user-images.githubusercontent.com/90242686/204095393-fa4c7793-1e24-4e43-928e-c7c61e43f222.png)
+
 
 
 
