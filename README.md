@@ -58,4 +58,9 @@ Selanjutnya yaitu memastikan semua node telah terhubung.
 ---
 
 
+Selanjutnya menghitung berapa jumlah host pada setiap subnet dan netmask yang akan digunakan.
+![image](https://user-images.githubusercontent.com/90242686/204094765-29dd89cf-4e0a-4484-9b1e-e52525427ea9.png)
+
+
+
 
