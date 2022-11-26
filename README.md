@@ -45,6 +45,7 @@ Setelah mengatur IP pada The Minister, selanjutnya kita mengatur IP pada Guideau
 Setelah berhasil mengatur IP pada subnet A1, selanjutnya mengatur IP setiap subnet sampai A18 sesuai dengan hasil perhitungan yang telah didapatkan sebelumnya. Karena terlalu banyak, kami hanya mencontohkan assign IP pada satu subnet saja. Untuk assign lengkap nya dapat di akses melalui <a href="https://github.com/SalsabilaB/Jarkom-Modul-4-ITB08-2022/blob/main/modul4.pkt"><b style="color:red">link berikut ini</b></a> 
 
 Setelah semua Node sudah diatur IP nya, selanjutnya yaitu melakukan routing agar semua node saling terhubung. Cara melakukan konfigurasinya adalah dengan masuk pada config ROUTING. Disana dapat mengisikan Netrwork , Mask, dan Next Hop yang ditujukan. Sebagai contoh penjelasan, kita ambil Router The Order. The order terhubung dengan router The Minister, sehingga konfigurasi pada router The Order yaitu:
+
 ![static](image/static.png)
 
 Selanjutnya yaitu memastikan semua node telah terhubung.
