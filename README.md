@@ -48,5 +48,5 @@ Setelah semua Node sudah diatur IP nya, selanjutnya yaitu melakukan routing agar
 ![static](image/static.png)
 
 Selanjutnya yaitu memastikan semua node telah terhubung.
-![hasilVLSM](image/hasilVLSM.png)
+![hasilVLSM](image/hasil.png)
 
