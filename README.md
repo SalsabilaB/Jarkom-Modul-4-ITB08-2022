@@ -56,13 +56,21 @@ Selanjutnya yaitu memastikan semua node telah terhubung.
 
 ## CIDR
 ---
+-Langkah 1
 ![0](https://user-images.githubusercontent.com/90242686/204094940-69bec155-d3a8-4be2-811d-b96f3a96ad54.png)
+-Langkah2
 ![2](https://user-images.githubusercontent.com/90242686/204095055-21516624-d268-4fc1-bb5a-dec39e7827cc.jpg)
+-Langkah3
 ![4](https://user-images.githubusercontent.com/90242686/204095068-2ecb29e6-2510-4fcd-996d-02eaaa3442cb.jpg)
+-Langkah4
 ![5](https://user-images.githubusercontent.com/90242686/204095074-35365f1d-cb18-44d4-bfa9-2e242ce5ba62.jpg)
+-Langkah5
 ![6](https://user-images.githubusercontent.com/90242686/204095080-0ebd16cf-ede0-42f9-86df-2c5960788f33.jpg)
+-Langkah6
 ![7](https://user-images.githubusercontent.com/90242686/204095084-526d7d6e-91ce-4347-9313-0d9eeaff15a4.jpg)
+-Langkah7
 ![8](https://user-images.githubusercontent.com/90242686/204095088-81031073-3675-4c44-8dc8-ae7824058d0e.jpg)
+-Langkah8
 ![9](https://user-images.githubusercontent.com/90242686/204095025-edeffb6d-40f4-4188-afdb-01ed2f42c046.png)
 
 
