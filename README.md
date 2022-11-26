@@ -50,6 +50,12 @@ Setelah semua Node sudah diatur IP nya, selanjutnya yaitu melakukan routing agar
 Selanjutnya yaitu memastikan semua node telah terhubung.
 ![hasilVLSM](image/hasil.png)
 
-## Topologi CIDR
+## Topologi GNS3
 ---
+![image](https://user-images.githubusercontent.com/90242686/204094486-506c673f-b6ad-41eb-8db9-b9753b9c49ab.png)
+
+## CIDR
+---
+
+
 
