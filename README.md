@@ -56,6 +56,7 @@ Selanjutnya yaitu memastikan semua node telah terhubung.
 
 ## CIDR
 ---
+![0](https://user-images.githubusercontent.com/90242686/204094940-69bec155-d3a8-4be2-811d-b96f3a96ad54.png)
 
 
 Selanjutnya menghitung berapa jumlah host pada setiap subnet dan netmask yang akan digunakan.
