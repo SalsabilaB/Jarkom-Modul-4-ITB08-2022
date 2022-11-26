@@ -60,6 +60,7 @@ Selanjutnya yaitu memastikan semua node telah terhubung.
 ![image](https://user-images.githubusercontent.com/90242686/204094765-29dd89cf-4e0a-4484-9b1e-e52525427ea9.png)
 
 - Pembagian subnetting
+
 ![image](https://user-images.githubusercontent.com/90242686/204097960-62a1e4fe-9ed1-4506-a543-d016b8e71a17.png)
 
 
